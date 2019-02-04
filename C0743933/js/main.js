@@ -1,5 +1,5 @@
 ﻿// Your code here!
- <script>
+function peanut() {
     var date = new Date();
-        document.body.innerHTML = "<h1> the date is" + date + "</h1>";
- </script>
+    document.body.innerHTML = "<h1> the date is" + date + "</h1>";
+}
